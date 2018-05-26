@@ -1,0 +1,25 @@
+each locsurb will have 5 types of landmark
+	Intersect
+	Address
+	Landmark
+	Streets
+	Postcode
+	Suburub
+
+Each landmark will have 12 inc months
+	 1- 12
+
+Each incidet will happe either on any weekdays from 
+	Monday to Sunday
+
+All suburbs should be equally representated
+
+Each month should have 4 weeks
+
+	each week should ahve 7 days incidents
+		
+		Each day should have 6 zone of incidents
+
+			Each zone should have 5 landmark incidents
+
+Default columns values
